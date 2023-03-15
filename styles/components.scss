@@ -221,3 +221,7 @@ footer .socials {
 #disqus_thread {
   color-scheme: none;
 }
+
+.item-center mb-4 flex justify-center space-x-1 lg:space-x-2 {
+  min-width: none;
+}
